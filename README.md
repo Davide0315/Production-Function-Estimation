@@ -1,7 +1,5 @@
 # Production-Function-Estimation
 
-Estimation of production functions (e.g., Cobb–Douglas / Translog).
-
 ## Contents
 - `R script.R` — main R script
 - `prodfn_data_5_3.dta` — dataset
